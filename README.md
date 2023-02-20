@@ -3,8 +3,11 @@ The code for the paper: DH-GAN: A Physics-driven Untrained Generative Adversaria
 
 **The paper has been accpeted by Optics Express and will be online soon.** 
 For current version please view: https://preprints.opticaopen.org/articles/preprint/DH-GAN_A_Physics-driven_Untrained_Generative_Adversarial_Network_for_Holographic_Imaging/22009556 
+## Contact
+- Xiwen Chen (xiwenc@g.clemson.edu)
+- Hao Wang (hao9@g.clemson.edu)
 
-
+## Code
 - Runnable code is in the notebook file ``` release_version.ipynb ```
 - Environment is listed in ``` requirements.txt ```.
 **Note the pytorch version is 1.6.0**
