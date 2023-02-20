@@ -10,9 +10,12 @@ The code for the paper: DH-GAN: A Physics-driven Untrained Generative Adversaria
 - A saved running result is in ``` release_version.html ```
 
 
+## Framework
+![](https://github.com/XiwenChen-Clemson/DH-GAN/blob/main/figs/framework.jpg)
+
 
 ## Cite 
-If you find the code is helpful for you, please kindly cite this paper
+If you find the code is helpful for you, please kindly cite these papers
 ```
 @article{chen2022dh,
   title={DH-GAN: A Physics-driven Untrained Generative Adversarial Network for 3D Microscopic Imaging using Digital Holography},
@@ -21,3 +24,33 @@ If you find the code is helpful for you, please kindly cite this paper
   year={2022}
 }
 ```
+AND
+```
+@article{li2020deep,
+  title={Deep DIH: single-shot digital in-line holography reconstruction by deep learning},
+  author={Li, Huayu and Chen, Xiwen and Chi, Zaoyi and Mann, Christopher and Razi, Abolfazl},
+  journal={IEEE Access},
+  volume={8},
+  pages={202648--202659},
+  year={2020},
+  publisher={IEEE}
+}
+```
+
+
+
+## Some results
+### Simulated hologram
+![Simluated Holo](https://github.com/XiwenChen-Clemson/DH-GAN/blob/main/figs/holo.bmp)
+
+### Reconstructed results
+![Simluated Holo](https://github.com/XiwenChen-Clemson/DH-GAN/blob/main/figs/final_results_2.jpg)
+
+### Results on real data
+![](https://github.com/XiwenChen-Clemson/DH-GAN/blob/main/figs/DH_rec_1.png)
+
+### Denosing
+![](https://github.com/XiwenChen-Clemson/DH-GAN/blob/main/figs/NOISE_NEW.jpg)
+
+**For more experiments with different structures, please ref the paper..**
+
