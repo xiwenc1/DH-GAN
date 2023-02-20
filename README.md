@@ -21,7 +21,7 @@ For current version please view: https://preprints.opticaopen.org/articles/prepr
 
 
 ## Cite 
-If you find the code is helpful for you, please kindly cite these papers
+If you find the code helpful for you, please kindly cite these papers
 ```
 @article{chen2022dh,
   title={DH-GAN: A Physics-driven Untrained Generative Adversarial Network for 3D Microscopic Imaging using Digital Holography},
