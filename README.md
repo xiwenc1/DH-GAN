@@ -1,6 +1,9 @@
 # DH-GAN
 The code for the paper: DH-GAN: A Physics-driven Untrained Generative Adversarial Network for 3D Microscopic Imaging using Digital Holography
 
+**The paper has been accpeted by Optics Express and will be online soon.** 
+For current version please view: https://preprints.opticaopen.org/articles/preprint/DH-GAN_A_Physics-driven_Untrained_Generative_Adversarial_Network_for_Holographic_Imaging/22009556 
+
 
 - Runnable code is in the notebook file ``` release_version.ipynb ```
 - Environment is listed in ``` requirements.txt ```.
