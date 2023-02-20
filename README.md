@@ -11,3 +11,13 @@ The code for the paper: DH-GAN: A Physics-driven Untrained Generative Adversaria
 
 
 
+## Cite 
+If you find the code is helpful for you, please kindly cite this paper
+```
+@article{chen2022dh,
+  title={DH-GAN: A Physics-driven Untrained Generative Adversarial Network for 3D Microscopic Imaging using Digital Holography},
+  author={Chen, Xiwen and Wang, Hao and Razi, Abofazl and Kozicki, Michael and Mann, Christopher},
+  journal={arXiv preprint arXiv:2205.12920},
+  year={2022}
+}
+```
