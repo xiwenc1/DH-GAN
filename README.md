@@ -23,11 +23,15 @@ For current version please view: https://preprints.opticaopen.org/articles/prepr
 ## Cite 
 If you find the code helpful for you, please kindly cite these papers
 ```
-@article{chen2022dh,
-  title={DH-GAN: A Physics-driven Untrained Generative Adversarial Network for 3D Microscopic Imaging using Digital Holography},
-  author={Chen, Xiwen and Wang, Hao and Razi, Abofazl and Kozicki, Michael and Mann, Christopher},
-  journal={arXiv preprint arXiv:2205.12920},
-  year={2022}
+@article{chen2023dh,
+  title={DH-GAN: a physics-driven untrained generative adversarial network for holographic imaging},
+  author={Chen, Xiwen and Wang, Hao and Razi, Abolfazl and Kozicki, Michael and Mann, Christopher},
+  journal={Optics Express},
+  volume={31},
+  number={6},
+  pages={10114--10135},
+  year={2023},
+  publisher={Optica Publishing Group}
 }
 ```
 AND
